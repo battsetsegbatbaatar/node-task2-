@@ -1,0 +1,22 @@
+[
+  { "id": 1, "Car": "Cadillac", "Model Year": 2004 },
+  { "id": 2, "Car": "Nissan", "Model Year": 2006 },
+  { "id": 3, "Car": "Ford", "Model Year": 1992 },
+  { "id": 4, "Car": "Hyundai", "Model Year": 1998 },
+  { "id": 5, "Car": "Lotus", "Model Year": 2007 },
+  { "id": 6, "Car": "Ford", "Model Year": 1996 },
+  { "id": 7, "Car": "Scion", "Model Year": 2006 },
+  { "id": 8, "Car": "Land Rover", "Model Year": 2008 },
+  { "id": 9, "Car": "Ram", "Model Year": 2011 },
+  { "id": 10, "Car": "GMC", "Model Year": 2006 },
+  { "id": 11, "Car": "Infiniti", "Model Year": 2002 },
+  { "id": 12, "Car": "Dodge", "Model Year": 1993 },
+  { "id": 13, "Car": "Honda", "Model Year": 1999 },
+  { "id": 14, "Car": "Maserati", "Model Year": 2008 },
+  { "id": 15, "Car": "Lexus", "Model Year": 2002 },
+  { "id": 16, "Car": "Pontiac", "Model Year": 1986 },
+  { "id": 17, "Car": "GMC", "Model Year": 2004 },
+  { "id": 18, "Car": "Buick", "Model Year": 1988 },
+  { "id": 19, "Car": "Saab", "Model Year": 1998 },
+  { "id": 20, "Car": "Ford", "Model Year": 1995 }
+]
